@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\Commonfunc.h(47,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\Commonfunc.h(58,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\Geometric.h(15,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\Geometric.h(24,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(109,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(112,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(113,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(129,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(167,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(239,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(253,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(275,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(276,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(311,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(316,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(334,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(335,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(382,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(390,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(398,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\Desktop\GAME_SDL_2\GAME_SDL_2\main.cpp(416,20): warning C4018: '<': signed/unsigned mismatch
+  GAME_SDL_2.vcxproj -> C:\Users\HP\Desktop\GAME_SDL_2\Debug\GAME_SDL_2.exe
